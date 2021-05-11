@@ -1,0 +1,326 @@
+issue name;author;date;number of comments;labels;number of participants
+Finalnewlinerenderedinpartials;boardfish;May 11, 2021;1;;1
+Themultiexecute#valid?methodwilltouchduplicatevalidation;OuYangJinTing;May 11, 2021;0;;1
+railsnewwithnoargumentisn'tveryhelpful;olivierlacan;May 11, 2021;0;;1
+Cannotreadproperty'received'ofundefinedinActioncable.js;RynoPi;May 10, 2021;0;actioncable;2
+ActiveStoragepurgeindevelopmentdeletesfilefromS3;atstockland;May 9, 2021;4;activestorage;3
+Mimetypedetectionbrokenin6.1.3.2;alexander-makarenko;May 9, 2021;3;activestorage;4
+EtagWithFlashCrashesWhentheSessionStoreisDisabled;aagrawal2001;May 7, 2021;3;actionpack;4
+ActiveSupport::Durationgotabreakingchangein5.2.5/6;lirossarvet;May 5, 2021;4;activesupport regression;3
+ActiveSupport::Configurableconfig_accessordoesnotwarnaboutnamingconflictswithHashinstancemethodsandreturnsunexpectedresultsonconflicts;tscholz;May 4, 2021;1;activesupport;3
+SchemaandMigrationfilecan'texpressparseroptionwhenusingfulltextindex;sblim0126;May 3, 2021;1;activerecord;3
+ActiveRecorddecimalroundingregressioninRuby3;soberstadt;Apr 28, 2021;7;third party issue;5
+Rails6ActiveJobwithResquebackendfailssilently;john-999;Apr 25, 2021;1;activejob more-information-needed;4
+BetterSupportUser-AddedColumnsonActiveStorage::Blob;dleavitt;Apr 23, 2021;2;activestorage;3
+ReloadingofroutesafteraController/Modelchangeispainfullyslowinlargeapplications;venkat-ally;Apr 22, 2021;9;actionpack;6
+ActiveStorageDiskServiceNoMethodError:undefinedmethod`rails_disk_service_url';lauramosher;Apr 21, 2021;9;activestorage;6
+ActionCableRedisadaptercrasheswithHerokuRedis6;kreintjes;Apr 21, 2021;4;actioncable docs;3
+Handlingstreamingresponses.;ioquatix;Apr 21, 2021;0;actionpack;2
+Generatedpackage.jsonfileusesversionconstraintsthatmaybetooloose;rmacklin;Apr 18, 2021;2;;2
+ActiveStorage:FileNotFoundErroronAnalyzeJobandresulting/beingcauseofmissingimage;sebastian-echeverria-lenio;Apr 16, 2021;2;activestorage;4
+ExceptionWebpacker::Manifest::MissingEntryErrorraisedinArticles#indexwhenfollowingalongwiththegettingstartedguide;brianewell;Apr 14, 2021;4;;3
+DirectUploadnotworkingonherokuactiveadmindeployment;fedeagripa;Apr 13, 2021;6;third party issue;3
+ActiveRecordinvalidqueryparameterconstructedwhenusingwhere(entity:array_of_entities);ttibensky;Apr 13, 2021;7;more-information-needed;4
+ActiveStorageImageAnalyzerdoesnotsupportVips;wilg;Apr 13, 2021;5;activestorage;3
+ActiveStorageimageanalyzerdoesnothandleexifrotationformirroredimages;wilg;Apr 13, 2021;0;activestorage;2
+Sessionoptionsarenil.Unabletoaddsessionsandautomaticconnectionswitchingtoanapi_onlyapp.;maxrosecollins;Apr 12, 2021;8;actionpack;4
+ActiveStorageattachmentnotsavedtodiskwhenaddingattachmentstoanewrecordinsideatransaction;siefkenj;Apr 11, 2021;3;activestorage;3
+ActiveRecord::Base.filter_attributesdoesn'tfilterSQLlogs;stouset;Apr 10, 2021;7;activerecord;4
+UnabletoPreviewaudio/vnd.waveinChrome;Raj-Kumar-P;Apr 8, 2021;5;activestorage;3
+ActiveRecord::Relation#one?and#many?methodsbreakwhenquerycontainsa.group();mnacos;Apr 7, 2021;0;activerecord;2
+Includingascopedhas_many..throughassociationbreakstheSQLin6.1;virolea;Apr 7, 2021;1;activerecord;3
+Newpostgresconnectionopenedduringmigrationsonproductionbutnotdevelopment;thornomad;Apr 6, 2021;1;activerecord;3
+Rails6ActiveStoragehas_many_attachedfilesmarkedfordestructionarenotdestroyedwhenanewfileisalsobeinguploaded;meaguile;Apr 6, 2021;0;activestorage;2
+Connectionclosedduringmigrationsundercertaincircumstances;joshleblanc;Apr 6, 2021;4;activerecord regression;2
+InsertAlldoesnotworkwithtableswithoverriddenprimary_key;grk;Apr 6, 2021;0;activerecord;2
+ActiveStorageduplicateattachmentswithafter_savecallback;colinlieberman;Apr 5, 2021;2;activestorage;4
+UseRAILS_ENVtoeditdifferentcredentialsfiles;matt17r;Apr 3, 2021;6;;3
+can'tbypassstrict_loadingonnewrecords;mockdeep;Apr 2, 2021;6;activerecord;4
+webpack-dev-servernotworkingandlingeringsasscissues;tgrushka;Apr 2, 2021;1;;2
+Addabilitytonotaddx-crsf-tokenonspecificrequests;mildred;Apr 2, 2021;1;;2
+Railsbi-directionalaccepts_nested_attributes_forleadstounexpectedvalidationresult;rsalehi2013;Mar 31, 2021;4;;2
+AutoloadingissuesinActiveStorageafterupgradefrom5.2.4.5->5.2.5;PeterLanglois;Mar 30, 2021;8;activestorage;4
+RenderingapartialoutsideofacontrollerresultsinthewronghostbeingusedinActiveStorageURLs;brian-kephart;Mar 30, 2021;3;activestorage;3
+AR::Relationcache_key_with_versionremainssamewhenupdated_athaschanged;okuramasafumi;Mar 29, 2021;0;activerecord;2
+Rails6.1.3.1NoMethodError:undefinedmethod`extension'fornil:NilClass;ToTenMilan;Mar 27, 2021;3;;2
+ActiveSupport::MessageVerifier::InvalidSignature-worksglobally,notinseparateclasses;mkralik;Mar 27, 2021;1;activesupport;2
+ActiveSupport::Testing::Parallelization::Worker#perform_jobdoesnotinvokeMinitest::AbstractReporter#prerecord;hurricup;Mar 26, 2021;0;activesupport;2
+ActionDispatchIntegrationTestbodyfromrequesthelperwithrawJSONisnotinparamsbutonlyparams(:_json);klyonrad;Mar 22, 2021;1;;2
+Usermustwaitforactivestorageattachmentstouploadtwice;AFlowOfCode;Mar 21, 2021;3;activestorage;4
+ActionCable->RemoteConnectionclass-keyworddeprecationwarning;thomasbalsloev;Mar 19, 2021;0;actioncable;2
+ActiveStorageattachmentsignoredbywrap_attributes;heaven;Mar 19, 2021;1;activestorage;3
+ActiveRecordmigrationswithpolymorphicreferencescreateindexeswithdifferentname;ClearlyClaire;Mar 17, 2021;1;activerecord;3
+initializeofnewARmodelwithassociationdeletespersistedrecord;senid231;Mar 17, 2021;16;activerecord;7
+Multipleattachmentfilesarenotpersistedtostorageservicewhenattachedseparatelywithinatransaction;reshleman;Mar 11, 2021;0;activestorage;2
+InclusionvalidationfailsforFloat::NAN;xronos-i-am;Mar 11, 2021;1;;2
+ActiveRecord::Tasks::DatabaseTasks.purgefailsifthedatabasedoesn'texist;saveriomiroddi;Mar 11, 2021;2;activerecord;3
+rails6.1.1counter_cacheconflictlock_versionwhendestroyaobject;Guoxweii;Mar 11, 2021;1;activerecord;3
+ActiveRecord::Result#column_typesisoftenmissingdata;terracatta;Mar 10, 2021;1;activerecord;3
+SetCache-Control:public,no-cachewithetag;collimarco;Mar 9, 2021;5;;2
+StrongParameters#permithasinconsistentbehaviorwithnumeric-lookingkeys;nightpool;Mar 5, 2021;4;;2
+ActiveRecordincorrectlyserializesinputforPG'sbinaryarrays;ivan-denysov;Mar 5, 2021;0;PostgreSQL activerecord;2
+change_credentials_in_system_editorbreakswithspacesinWindowsusername;ariccio;Mar 5, 2021;1;;1
+Countinghas_manyassociationswithextraclausesgiveswrongresulssinceRails6.1;Naturseptime;Mar 4, 2021;4;activerecord;4
+ShouldActionDispatch::Http::UploadedFile#headersbeencodedlike#original_filename;sjieg;Mar 3, 2021;0;;1
+ActiveRecord::ConnectionAdapters::PostgreSQLAdapter.new_clientraisesNoDatabaseErrorerroneously;ccutrer;Mar 3, 2021;3;activerecord;3
+Brokenroutesafterinstallingwebpacker;coliveiraluca;Mar 3, 2021;1;;2
+ActiveStorage:Oldurlsstillincludedeprecated:combine_optionsinvariation_key;samvandamme;Mar 1, 2021;2;activestorage;3
+{willAttemptReconnect:true}whencalling.disconnectonserver;ac74394;Feb 28, 2021;4;actioncable;2
+rails-ujsusesthereturnvalueofgetAttributetocheckforthepresenceofanattribute;3limin4t0r;Feb 26, 2021;2;;2
+[ActiveRecord]schema_cache.yamldoesnotaccountforthedatabaseschema(testedinpostgres);sbeckeriv;Feb 25, 2021;2;activerecord;3
+DifferentindexnameisgivenwhenrunningmigrationinRails6.1;JunichiIto;Feb 25, 2021;3;;3
+config.hostsnolongersupportsunderscoresinhostnameanderrormessageisincorrect;Scott3377;Feb 24, 2021;4;;4
+Conotrollersscaffoldgeneratorupdatebrokeoldbehaviourforpreviousrailsversions.;panSarin;Feb 24, 2021;1;;2
+ActiveSupport::Cache#fetch_multidoesnotrespecttheforceoption;rsanheim;Feb 23, 2021;2;;1
+ActiveModel::Dirtyfailsonto_json;RookieBoi;Feb 22, 2021;2;;2
+ActiveRecord:Missingjoinedtableafterupgradingto6.1;kaspernj;Feb 19, 2021;0;activerecord regression;2
+ActiveStorage:foreignkeyconstraintsbrokedb:schema:loadwithmysql;andynu;Feb 18, 2021;2;activerecord;3
+Loadedhas_manycollectiondoesn'tgetupdatedwhennewrecordsarecreated;alimi;Feb 17, 2021;5;activerecord;5
+ActiveRecord::Base.no_touchingdoesnotpreventtouchonsave;fschwahn;Feb 16, 2021;1;activerecord;3
+PendingMigrationErrornotraisedforenginemigrations;wedgex;Feb 16, 2021;2;activerecord;3
+ActiveStorageRenamefilewithoutre-upload;itay-grudev;Feb 16, 2021;1;activestorage;2
+Slowperformancewhenrenderingcollectionsofnestedpartials;willcosgrove;Feb 15, 2021;8;;5
+OnionServicesshouldbeconsideredsecureforcookies;jtracey;Feb 12, 2021;3;actionpack;3
+"ActiveStorageblobscanbeattachedusingtheir""displayable""signedIDs";julik;Feb 11, 2021;0;activestorage;2
+ActiveStorage-DiskServicedoesnotkeepthehostprotocolindevelopmentfordirectuploads;jdrosales17;Feb 9, 2021;0;activestorage;2
+ActiveRecord#includesgivesdifferentresultsiftheincludesorderisdifferent.;github0013;Feb 9, 2021;6;;2
+ActiveStorageadddownload_chunkforblob;psoldier;Feb 5, 2021;2;activestorage;2
+wrongnumberofarguments(given3,expected1..2)onerrors.addwhengivenhash;rmehner;Jan 28, 2021;2;docs;3
+ActiveRecordupdatescounterswhenitshouldn't;milani;Jan 27, 2021;4;activerecord;3
+UnabletosetdefaultJSONvalueonatextcolumnwithMariaDB;janko;Jan 26, 2021;2;activerecord;3
+#inverse_ofand#has_inverse?returningnilforActiveRecord::Reflection::BelongsToReflection;tpkonrad;Jan 20, 2021;5;activerecord;3
+Parallel-testingtest-runraisesBadfiledescriptor(Errno::EBADF)usingMySQL8.0;johnmaxwell;Jan 19, 2021;8;activerecord parallel testing pinned;4
+JointabledataassignedtoModel;weistom;Jan 18, 2021;9;activerecord;3
+RemoveRack::SendFilefromdefaultmiddleware.;ooooooo-q;Jan 17, 2021;0;actionpack security;2
+Specusingstop_stream_fromfailswithundefined'pubsub';jasonatball;Jan 11, 2021;2;;1
+ActiveRecordGROUP_BY/COUNTcalculationreturnscorrectquerybutincorrectresult?;ajh-sr;Jan 11, 2021;1;activerecord;3
+Emptyarraysdon'tpassvalidateexclusionofnilinRails6.1;haines;Jan 8, 2021;7;;4
+ChangeindateserializationforJSON;liaden;Jan 7, 2021;1;;2
+Joinswithfiltergenereratesinvalidquery.Regressionin6.1;jcoyne;Jan 4, 2021;3;activerecord regression;5
+Integercolumnshouldrejectnon-numberstringthatstartwithnumber;cklll;Dec 31, 2020;2;activerecord;4
+activestoragegenerator/migrationsdon'trespectactive_record'sprimary_key_type;josh-m-sharpe;Dec 31, 2020;3;;3
+ActionMailertestenvironmentnotrecognizingurloptionsfromconfig;redbassett;Dec 30, 2020;5;actionmailer;3
+Rails6:Scopingbehavioronassociations:ConsistencywithSecurity;jdelporte;Dec 28, 2020;5;activerecord pinned;3
+CSRFActionableExceptionsmiddleware;ooooooo-q;Dec 20, 2020;1;actionpack security;2
+ActiveRecord6.1.0querywithmergeraisesActiveModel::MissingAttributeError;macfanatic;Dec 17, 2020;5;activerecord regression;5
+Rails6.1:has_many_inversingbreaksbelongs_torelationswiththesamenameasthemodel;tjallingvanderwal;Dec 17, 2020;2;activerecord;4
+ActionText::RichTextattemptstorenderattachmentswhencreatinganewobject;adamdebono;Dec 14, 2020;4;actiontext pinned;4
+Activestorageduplicatingblobswhen.attachiscalled;muyiwaoyeniyi;Dec 13, 2020;1;activestorage;3
+Scaffoldgeneratorforsystemtestsindefinitearticleagreementerrorifmodelnamebeginswithavowelsound;msducheminjr;Dec 3, 2020;2;;1
+ActiveRecordhas_many(dependent::destroy)associationsremainpersistedaftertheirparentdestroyed;andrey-dalia;Dec 2, 2020;3;activerecord;4
+PG::InFailedSqlTransaction:ERROR:currenttransactionisaborted,commandsignoreduntilendoftransactionblock;thebravoman;Nov 26, 2020;5;;3
+LenthValidatorbreaksifnilvaluehasaminimumlengthwithaproc.;sliiser;Nov 18, 2020;7;activemodel attached PR;4
+can'taddanewkeyintohashduringiterationlib/active_record/connection_adapters/abstract/query_cache.rb;kvokka;Nov 12, 2020;5;third party issue;4
+ActiveRecordissuessavingInfinitywithTimezones;lcx;Nov 10, 2020;4;;5
+ActiveStorageacceptsbrokenimagesandthrowsexceptionswhencreatingvariants;Signum;Oct 31, 2020;3;activestorage;4
+InaccuratecommentinApplicationJobtemplate;ce07c3;Oct 2, 2020;5;activejob;3
+Deployingtoasub-directorydoesnotuseconfig.relative_url_root;MarkMT;Sep 16, 2020;2;stale;2
+HostAuthorization:confusingerrormessagewhenusingmultiplehostnames;Eusebius1920;Sep 15, 2020;4;;1
+Cookiestoreconfiguredwithdomainall,failfor3-letterdomainswitha2-letterTLD;kevinsjoberg;Sep 8, 2020;8;;2
+has_manythroughwithscopeblock,STIandpolymorphicassociationsthatworkedin5.0breaksin6.0(alsobreaksin5.1and5.2);henrik;Aug 26, 2020;9;activerecord;5
+Whydoesupsert_alldisallowunique_byprimarykey?;kapso;Aug 16, 2020;21;activerecord;7
+ActiveRecord::Migration::CheckPendingmiddlewarecancausedeadlockswhenautoloading(usingtheclassicautoloader);cjlarose;Aug 7, 2020;13;activerecord;3
+ChangedefaultsemanticsfordealingwithGETrequestswithpayload;tgxworld;Aug 3, 2020;6;stale;4
+after_commitforinnertransactionhasdifferentobjectid;SheldonNunes;Jun 24, 2020;4;With reproduction steps activerecord;5
+Makeredirect_todefaulttosecurebehaviortoavoidopenredirects;williamcodes;Jun 17, 2020;20;;7
+Addtop-levelRails.application.urlforcanonicalreference;dhh;Jun 7, 2020;7;actionpack pinned;8
+TestingcontrollerforaModelwithActiveStoragestucksPostgreSQL;dima4p;Jun 2, 2020;11;;4
+HTMLfallbackfor.jspathsisdangerous;tenderlove;May 29, 2020;3;security;4
+ActiveSupport::KeyGenerator:replaceSHA1bySHA256;fwininger;May 20, 2020;1;activesupport security;3
+URLgenerationdoesnotescapenewlinecharacterinwildcardsegments;etiennebarrie;May 1, 2020;5;With reproduction steps actionpack;3
+PublicstoragetestsarenotraninCI;peterzhu2118;Apr 22, 2020;2;activestorage pinned;2
+ActiveStoragedirectuploadscan'tspecifyaservice_name?;scottjg;Apr 13, 2020;10;activestorage;4
+Selectivelyskippingschemadumpsafterrunningmigrations(multi-db);david-pm;Apr 12, 2020;7;;6
+ETagmiddlewarepossiblypreventingSSE;jefflasslett;Mar 29, 2020;3;;5
+Recordwithattributeofcustomtypefailstocreatewhenvalueis0;Drenmi;Mar 12, 2020;10;With reproduction steps activerecord;4
+MigrationonMariadb:textcolumndefaultvaluereadsbackwithextraquotes;msg7086;Jan 11, 2020;9;;6
+quoted_datehasanhourwindowoffailurefortimestampwithtimezone;JasonHerr;Jan 8, 2020;5;With reproduction steps activerecord;3
+Modifingchildmodel'sinstancevariabletriggerschildmodel'svalidationatv5.2.3,butnotv5.2.4;megane42;Jan 5, 2020;4;With reproduction steps activerecord;4
+Rails6removesgroupqueryfromscopeonupdate_all;mfazekas;Jan 4, 2020;5;With reproduction steps activerecord;6
+Theassociatedmodelbecamenotvalidated;hkdnet;Dec 20, 2019;9;activerecord regression;9
+RoundingissueusingBigDecimal/DateTimewithRails6;ledermann;Dec 19, 2019;3;activesupport attached PR;4
+Associatedmodelsarevalidatedwhenthereisacustomvalidationcontext;jmao-wellframe;Dec 19, 2019;1;activerecord regression;3
+ActionTextpdfpreviewsaremissingintrixeditor;rolandasb;Dec 18, 2019;4;actiontext pinned;5
+BringManymonadtoActiveSupportandActiveRecordrelations;dhh;Dec 3, 2019;9;activesupport pinned;9
+NamespacedUUIDsarenotgeneratedcorrectlywhenthenamespaceIDprovidedisthestringrepresentationofaUUID;erichmachado;Nov 11, 2019;1;activesupport attached PR;2
+ModifiedActiveRecordcollectionsmayreturnsamecache_versionwhenusinglimit;marckohlbrugge;Oct 24, 2019;11;activerecord attached PR;7
+ActiveRecord::PendingMigrationErrorisnotraisedwhennon-primarydatabasemigrationisdownwithmulti-db;suketa;Oct 22, 2019;2;activerecord;4
+Rails6inconsistentlyoverridesActiveJobqueue_adaptersettingwithTestAdapter;searls;Sep 23, 2019;33;activejob;19
+AttachinganActiveStorageblobinamodelcallbackcreatesaSystemStackError;jarydkrish;Aug 22, 2019;3;With reproduction steps activestorage;4
+Rails6regressioninafter_rollbackcallbacknotcalledfornewrecords;jeffblake;Aug 18, 2019;9;activerecord regression;9
+ActionText:rendersrawhtmlwhenusingslim-rails.Rails6.0.0rc2&ruby2.5.5;pinzonjulian;Aug 16, 2019;1;With reproduction steps actiontext;3
+save!returnsnilwhenhas_oneassociationthrowsabort;giraffate;Aug 1, 2019;2;activerecord attached PR;2
+"SidekiqhangsusingRails6appwith""classic""autoloader";langsharpe;Jul 30, 2019;10;actiontext activejob;12
+Actionpack:potentialbreakingchangeinrack-test;dennissivia;Jul 23, 2019;3;actionpack needs feedback pinned;4
+quote_bound_valuedoesnothandlerangesofTime;Tolsto;Jul 15, 2019;6;With reproduction steps activerecord;3
+ActiveRecord::RecordNotUniqueWhenCallingActiveStorageattach;iamjohnford;Jun 29, 2019;3;With reproduction steps activestorage;4
+MisleadingdeprecationwarningwhenreferencingActionController::Base;pvande;Jun 24, 2019;24;activesupport railties;24
+has_onedoesn'tgeneratean[association]_idmethodandeveryotherassociationtypedoes;robotdana;Jun 18, 2019;3;activerecord attached PR;4
+Eagerloadorderbug;Tiltorito;Jun 13, 2019;8;With reproduction steps activerecord;4
+ActiveStorage5.2.3dependent::purgecausesunexpectedresult;moveson;Jun 6, 2019;2;activestorage attached PR;3
+actriverecord5.2.3breaksonnumericsearchesforemptystrings;cork;Jun 5, 2019;11;With reproduction steps activerecord;6
+counter_cachedoubleincrement;garside;Apr 26, 2019;1;activerecord attached PR;2
+ActiveStoragemodelsignoretable_name_prefix;gr8bit;Mar 31, 2019;3;activestorage attached PR;5
+Model.newreturningapre-initialisedobjectinclassmethod;sonal425chouhan;Mar 19, 2019;4;With reproduction steps activerecord;4
+UnabletoconfigureActionMailercustomdeliverymethods;Benjamin-Dobell;Feb 26, 2019;4;With reproduction steps actionmailer;3
+ActionViewleaksmemoryindev;tenderlove;Jan 23, 2019;1;actionview pinned;3
+ActionText:silentlyfailswithoutYarninstalled;sosodev;Jan 21, 2019;0;actiontext attached PR;3
+LogawarningifyourunSQLiteinproduction;irlcatgirl;Dec 15, 2018;28;activerecord pinned;9
+URLhelpersinmountedenginecalledfromrendererproduceincorrectpaths;Vasfed;Nov 14, 2018;0;With reproduction steps actionpack attached PR engines;3
+active_storagefips140-2issue;da-development-id;Nov 14, 2018;7;activestorage pinned;5
+OccasionaldeadlocksbetweenDependencies::Interlockanddbadapterlock;tessereth;Oct 25, 2018;10;pinned;4
+form_withdoesn'trenderformtagitselfwhennoblockispassedfromsecondcallonward;koenhandekyn;Oct 22, 2018;2;actionview attached PR;3
+Thanks!;harrylove;Oct 17, 2018;3;With reproduction steps ready;5
+STIActiveRecordcreationusingHashwithdefaultvalueraisesanerror;vmeyet;Oct 15, 2018;0;With reproduction steps activerecord;2
+URLhelpersforisolatedenginesdisregardSCRIPT_NAMEwhenit'ssetbyappmiddleware;georgeclaghorn;Sep 28, 2018;2;actionpack pinned;2
+ParsingofAcceptheaderinrequestfailsonquoted-strings;tkalliom;Sep 25, 2018;1;With reproduction steps actionpack;3
+current_page?notworkingwithtrailingslashandparameters;rien;Sep 23, 2018;0;actionview attached PR;2
+Doublememoryusagewhen(de-)compressingcacheentry;printercu;Sep 18, 2018;1;activesupport attached PR;3
+Attributescreatedbystore_accessorcannotbecastedwithcast_type;FX-HAO;Aug 31, 2018;0;attached PR;2
+Addedflashtypesarelistedincontrolleractionmethods;Bodacious;Aug 12, 2018;0;attached PR;2
+"ActionCable.Subscription.perform:Keyname""action""notallowedfor""data""argument";pinksynth;Aug 1, 2018;0;actioncable attached PR;2
+CommandLineguideistoonarrative;matthewd;Jul 1, 2018;1;docs pinned;2
+IntegerdivisionofActiveSupport::Durationinstancereturnszero;aarongough;Jun 21, 2018;3;attached PR;3
+has_onethroughnotavailableonunpersistedinstances;zachwalton;Jun 18, 2018;5;With reproduction steps activerecord;7
+CannotSerializeObjectwithnoActiveStorageAttachmenttoJSON;CodingAnarchy;May 31, 2018;13;activestorage pinned;11
+NoMethodError-undefinedmethod`clear'fornil:NilClass-ConnectionHandler#establish_connection-afterupgradingtorails5.2.0;cliffcrosland;May 30, 2018;4;attached PR;4
+Incorrectpolymorphic_typewhenSTIisunused;FX-HAO;May 17, 2018;3;attached PR;3
+ActiveRecorddoesn'tcorrectlyhandleInfinityvaluesfordecimalcolumnswithascale;gilmoreorless;May 15, 2018;4;activerecord attached PR;5
+wrap_parametersdropsattributesforhas_and_belongs_to_manyassociation;eikes;May 3, 2018;1;attached PR;2
+has_manydoesnotupdateonsaveifparenthasnotbeenchanged;mri-dula;Apr 6, 2018;8;With reproduction steps activerecord;6
+Hasmanythrough_idssetterraisesanexceptionwhensavingsafely.;matiasgarcia;Mar 17, 2018;6;With reproduction steps activerecord;7
+Systemtests-Preventingrunmultiplesessionsforgiventest;pavel-jurasek-hypofriend-de;Mar 8, 2018;1;actionpack attached PR;3
+IssueswithAssociations::PreloaderusedasaPublicAPI;xuorig;Feb 28, 2018;11;pinned;8
+ActiveStorage:invalidAttachmentwhenlaststepofdirectuploadfails;SimonFrr;Feb 13, 2018;10;With reproduction steps activestorage;12
+Newlycreatedrecordhaschangesontimestamps;wagenet;Feb 8, 2018;10;activerecord pinned;7
+SerializinganActiveRecordclasscausesastackoverflow;jvans1;Feb 6, 2018;3;activerecord attached PR;4
+ActiveRecord5.1-#includesraisesNoMethodErrorwhencasedoesn'tmatchonjoincolumns;seandilda;Dec 14, 2017;10;activerecord attached PR;7
+ActiveRecordcallingsaveonaparentwithaccepts_nested_attributes_forwithbefore_destroyonchildmodelcanraiseerror;rschooley;Dec 13, 2017;7;With reproduction steps activerecord;5
+STI:classnamesasparametersforwhere;skyfmmf;Nov 9, 2017;19;With reproduction steps activerecord;8
+Deadlocksinnestedtransactionsattemptrollback;jamiemccarthy;Sep 29, 2017;4;activerecord attached PR;4
+BehaviorofdaysisdifferentbetweenRails5.0and5.1;ponkotuy;Sep 8, 2017;5;activesupport attached PR;7
+InconsistentpartiallookupbetweenPartialRendererandDigestor;zhengpd;Aug 8, 2017;7;actionview attached PR;3
+modelw/oprimarykeydefinedasassociationbeeingeagerloadedisnotpopulated;disorganizer23;Jun 6, 2017;1;activerecord attached PR;4
+ActiveSupport::TimeZone.us_zonesbehaviorchangedbetweenRails5.0.2and5.0.3;BigGillyStyle;May 24, 2017;5;activesupport needs feedback regression;4
+weirdbehaviorofper_form_csrf_tokens;apinrdw;May 15, 2017;4;security;4
+Recordnottouchedwhenremovingassociatedhas_manythrough;thomasfedb;May 14, 2017;9;With reproduction steps activerecord;5
+db:structure:loadbrokenonlinuxwithadefaultpostgresinstall;djcp;May 11, 2017;6;PostgreSQL activerecord attached PR;6
+Validationruntwiceinassociationifparentupdatedsincerails5.1;kaluznyo;May 10, 2017;3;With reproduction steps activerecord;3
+SettingdatetimeinsideTime#use_zonedoesnotwork;wdruzkawiecki;Apr 25, 2017;3;activerecord attached PR regression;4
+Postgresqlfloat4poorprecision,extra_float_digits=3;ioquatix;Apr 19, 2017;12;PostgreSQL activerecord needs work pinned;5
+Railsformvalidationerrorsnotdisplayedforassocationforeignkeyfieldwhenonlypresencefortheassociationitselfisvalidated;edwardmp;Apr 15, 2017;4;actionview attached PR;3
+Wrongbacktrace(ActionView::MissingTemplate)whenexceptioninpartialwithvariant;joallard;Apr 12, 2017;10;With reproduction steps actionview needs work;4
+Cookiesfromdevelopmentserverwon'tsaveinIE;MMercieca;Mar 10, 2017;2;actionpack attached PR;3
+NilClass.to_query(key)doesnotround-tripwithRack::Utils.parse_nested_query;md5;Mar 7, 2017;3;activesupport attached PR;3
+i18nbehaviourincontrollersdiffersfromviewsfor_htmlsuffixes;gavingmiller;Jan 31, 2017;1;actionpack actionview attached PR;4
+ActionCable'sSubscriptionAdpaterforRedisdoesnotreconnectafteraconnectionloss.;wpp;Jan 12, 2017;16;actioncable needs feedback pinned;11
+cookies.deletebrokenforrequesttypeotherthanGETincontrollertests;iamchucky;Jan 5, 2017;3;With reproduction steps actionpack attached PR regression;3
+Deferredfixtureenrolmentcausesover-eagerconnection;matthewd;Jan 5, 2017;5;activerecord attached PR pinned;6
+ActiveRecord::Relation#cache_keyreturnssamekeyfordifferentrecordswithhm:tassociation;javan;Jan 4, 2017;1;activerecord pinned;3
+5.0.0.1->5.0.1breaksvalidatesuniquenesswithrelation;grosser;Dec 21, 2016;8;With reproduction steps activerecord attached PR needs feedback regression;5
+Nullifycallbackpersistsevenaschildclassoverridesassociation;chrisarcand;Dec 15, 2016;4;activerecord needs feedback pinned;3
+Memoryleakindevelopment;printercu;Dec 5, 2016;16;actionview attached PR needs feedback;7
+Dynamic:actionsegmentdeprecationforcesapplicationbloataftersuggestedworkaround;Fryguy;Nov 30, 2016;22;actionpack needs feedback pinned routing;11
+ActionCablePostgresadapterisActiveRecord-specific;bgentry;Nov 29, 2016;5;actioncable attached PR;3
+IncludingActionView::RenderinginAPIcontrollerwithoutjbuilderbreaksrender:json;jpettettphaxio;Nov 29, 2016;15;With reproduction steps actionpack actionview needs feedback;10
+ActionCablestreamingperformance;palkan;Nov 9, 2016;7;actioncable attached PR needs feedback;5
+increment!methodbehaviordifferRails4andRails5;akicho8;Sep 7, 2016;4;With reproduction steps activerecord attached PR;4
+Defaultdisable_withonsubmit_tagbreakstheappiftheusergoesback;robinwhittleton;Sep 2, 2016;5;With reproduction steps actionview;4
+ActionDispatchdoesnotunderstand:jsonapimimetype;Ikariusrb;Aug 28, 2016;9;actionpack attached PR;4
+unabletore-insertmiddlewarethatwaspreviouslydeletedwithmiddleware.delete;naw;Aug 28, 2016;15;actionpack attached PR needs feedback;10
+Preventjobsfrombeingscheduledwithintransactions;dhh;Aug 3, 2016;6;activejob activerecord pinned;7
+Whendefault_url_optionsiscalledwithinI18n.with_locale,localeisleakedtofurtherurlhelpers;ybart;Aug 3, 2016;4;With reproduction steps actionpack routing;4
+"Titleizeinflectorsquashing""Id""attheendofastring";megahbite;Aug 1, 2016;7;activesupport attached PR;6
+Reorderingissueinfind_in_batchesandfind_each;vinay-mittal;Jul 31, 2016;3;activerecord attached PR;5
+has_many:through**validate=>false**notbeingobeyedduringassociationupdate;marcalc;Jul 6, 2016;15;activerecord attached PR;14
+Settingself.response_body=nilnolongerpreventsDoubleRenderError;kdough;May 22, 2016;15;With reproduction steps actionpack regression;13
+[ActionCable]Nowaytofilteroutanysensitivedatawhichmaybepassedasanargumenttotheremoteprocedureoverwsprotocol..;Anuragjain89;May 20, 2016;7;actioncable attached PR needs feedback;6
+Cable:Shoulderrorondouble-subscribe;jeremy;May 6, 2016;5;actioncable attached PR needs work;3
+Cable:Robustunsubscribe;jeremy;May 6, 2016;8;actioncable attached PR needs work;5
+[nil].sumreturns0;mrkn;Apr 30, 2016;14;activesupport attached PR;9
+codeintest_casemessesupencodingofhashesinroutesifthathashissetasadefaultsoptionontheroute.;urkle;Apr 28, 2016;3;With reproduction steps actionpack;2
+ActionView'formcannotcontainnil'afterrails5scaffoldgeneration;kallisti5;Apr 16, 2016;14;actionview attached PR;11
+ActiveRecord::Base.table_name_prefix/suffixschemadumperallowsforconflictswithunprefixedtables;Empact;Apr 12, 2016;4;With reproduction steps activerecord;4
+has_manythroughvalidationerrorwhenforeign_keyisspecified;dkniffin;Apr 12, 2016;7;With reproduction steps activerecord attached PR;6
+index_errorsdoesnotconsiderindexesofcorrectexistingsubrecords;justedd;Apr 1, 2016;20;activerecord attached PR;17
+RailsActiveRecord::RecordInvalidexceptionnotraisedinafter_createofassociation;mountriv99;Mar 24, 2016;11;With reproduction steps activerecord;6
+Changingforeignkeyfailstoupdatecachedassociationifrecordwasloadedthroughassociation;nybblr;Mar 16, 2016;5;With reproduction steps activerecord;5
+Rails5.0.0beta3cannotloadsuchfile--listen;sadinie;Mar 4, 2016;18;activesupport attached PR;16
+ActiveRecord::Associations::CollectionProxy#cleardoesn'tcallremovecallbackwithhasmanythrough;authorNari;Mar 1, 2016;5;With reproduction steps activerecord;7
+Addconfig/tospring+railsserverrestartwatcher;dhh;Feb 26, 2016;13;pinned railties;7
+Eagercomputetemplatedigestsinproduction;dhh;Feb 26, 2016;18;actionview pinned;6
+What'sthewayforwardforstreamingandexceptions?;nateberkopec;Feb 24, 2016;9;actionpack needs feedback pinned;4
+ActionController::Streamingdoesn'tstream;nateberkopec;Feb 23, 2016;20;With reproduction steps actionpack;7
+ActiveRecordObjectEqualitydoesn'thandleSTI;CyborgMaster;Feb 18, 2016;7;activerecord attached PR;3
+Strongparametersdoesn'tpermitarrayofarrays(nestedarrays);leonardoprg;Feb 12, 2016;28;With reproduction steps actionpack attached PR;19
+Rails5beta2inAPImode:validationsarecalledmoretimesthantheyshould;sauronnikko;Feb 9, 2016;5;With reproduction steps activerecord needs feedback;4
+DependencyTrackerfindsdependenciesinHTMLtagsandincorrectlyinrendercalls;romaimperator;Feb 7, 2016;1;actionview attached PR;3
+Polymorphichas_onehas_manyissue;benliscio;Jan 26, 2016;3;activerecord attached PR;4
+Cannotvalidateassociatedmodeloncustomcontext;RagunovichVlad;Jan 26, 2016;4;activerecord attached PR;5
+Indate_selecttags,:include_blankshouldnotoverride:default;jkopczyn;Jan 17, 2016;2;actionview attached PR;4
+#as_jsonomitsoutputfromrelationsfollowingtheusageofaconfighash;kenaniah;Dec 12, 2015;2;With reproduction steps activemodel attached PR;5
+Relation#destroy_allshouldperformitsworkinbatches;dhh;Dec 6, 2015;19;activerecord attached PR pinned;12
+Decimalattributehasvaluecheckdiffersinjoinedtable.;simi;Nov 27, 2015;4;activerecord attached PR;5
+MessageEncryptorbrokecompatibilitybetween3.1and3.2+;bjeanes;Nov 6, 2015;0;activesupport regression;2
+model.associations.reload.lastisnotdeterministic;aripollak;Oct 30, 2015;5;With reproduction steps activerecord;4
+Cachedigestbug?;blackspace;Oct 13, 2015;3;actionview attached PR;4
+Rubyprocesshangswhencallinggeneratorfromafter_bundlehookinRailstemplate;jensljungblad;Sep 21, 2015;9;With reproduction steps railties;9
+"InRails4.2passingActionDispatch::Http::UploadedFileintoamodel'sHashserializedparamsraises""IOError:uninitializedstream""whentryingtoreadthefile.";SixiS;Sep 10, 2015;4;activerecord pinned;6
+create_join_tableincorrectlyprependstable_name_prefixtofirsttablenamebeforegeneratingtablename;frenkel;Aug 20, 2015;7;activerecord attached PR;5
+Escapedentitiesinrequestsarenotproperlydecoded;stevenkaras;Aug 13, 2015;4;With reproduction steps actionpack;5
+Unnecessary/faultydowncaseonrecordinsidehas_one,has_manyrestrict_with_errorcontrolstructure;cseelus;Jul 30, 2015;5;pinned;6
+Autosavingassociationsignoresvalidate:false;dfyx;Jul 29, 2015;4;activerecord attached PR;6
+Enqueuingjobsinsideajobcanleadtomemorybloat;pixeltrix;Jul 27, 2015;10;activejob pinned;4
+ActiveRecordhas_manyassociationwithdependent::delete_alliscachedwhendestroyiscancelled;exciton;Jul 20, 2015;6;With reproduction steps activerecord;6
+after_commitorderinconsistentwithothercallbacks;odedniv;Jul 17, 2015;15;activerecord attached PR pinned;13
+Enginepathhelpersdon'talwaysreturnURLsthatmatchroutes;Ravenstine;Jun 29, 2015;5;With reproduction steps engines;6
+Subclassmissesassociationdefinedonparent;matthewd;Jun 23, 2015;7;activerecord attached PR pinned;9
+accepts_nested_attributes_forbreakstheuniquenesswithscopevalidation;spurnaye;Jun 23, 2015;67;With reproduction steps activerecord;47
+DonotuseBASE58forhas_secure_token;kenn;May 13, 2015;13;activerecord pinned;10
+Pleasedocheckifgroupvalueisnotempty;parol-peter;Apr 23, 2015;18;activerecord attached PR;6
+Weirdhandlingofnestedassociationerrormessageswhenassignedto:baseattribute;ramsdenct;Apr 22, 2015;8;activerecord attached PR;9
+Slashinfilenameforrenderdoesnotsearchintheapplicationfolder;BenMorganIO;Apr 20, 2015;5;actionview attached PR;5
+Inverseassociationisnotbeingsetbeforeafter_create;afn;Apr 1, 2015;4;With reproduction steps activerecord;4
+Possiblecircularreferencesbug;nesrual;Mar 27, 2015;13;With reproduction steps activerecord;7
+Invalidobjectspassvalidationswhenusingvalidates_associatedbutcorrectlyfailwhenvalidateddirectly;davidpaulhunt;Mar 25, 2015;3;With reproduction steps activerecord;5
+ARattributelookupperformedincorrectlyifrecordsareinstantiatedfromcache;enthrops;Mar 13, 2015;7;With reproduction steps activerecord;5
+current_page?methoddoesn'trespectthe.formate.g[.mobile,.json]inurl;visualsayed;Mar 11, 2015;2;actionview attached PR;4
+ThreadbugwithRails::Enginemountedroutes,undefinedmethod`url_options';sbull;Feb 26, 2015;21;With reproduction steps actionpack engines;9
+AllowvariantstobesetthroughtheURL;dhh;Feb 5, 2015;13;actionpack attached PR pinned;8
+self-referentialtemplatesblowupraketaskbutnotserver;jjb;Jan 23, 2015;11;With reproduction steps actionview;4
+"""railsgenerateplugingems/engine--full""failsatvendor_apptest/dummy";sanderhahn;Dec 17, 2014;7;With reproduction steps railties;5
+Wronginstanceobjectpassedtolambdaonhas_one:through;haruska;Dec 2, 2014;7;With reproduction steps activerecord;5
+ActiverecordDISTINCTONforjsondatatypeinpostgresql;3zcurdia;Nov 21, 2014;17;PostgreSQL With reproduction steps activerecord;19
+Cannotvalidatepresenceofidsonmulti-multiassociations;jonswar;Nov 18, 2014;11;With reproduction steps activerecord;8
+ARiserroneouslyvalidatingexistingrecordsonahas_many:through;uberllama;Nov 14, 2014;12;With reproduction steps activerecord;8
+Twoassociationrecordscreatedforhas_manythrough;daveroberts;Nov 12, 2014;15;With reproduction steps activerecord;7
+ActionViewErubisrenderingistentimesslowerthanplainErubis;brauliobo;Nov 9, 2014;10;actionview pinned;7
+inflectionsarenowcasesensitive?;bigtunacan;Nov 6, 2014;8;activesupport regression;6
+autosaveonhas_manyrelationdoesn'tsaveupdatedcollectionobjectsallthetime;mkanoor;Oct 31, 2014;24;With reproduction steps activerecord;17
+Buildingahas_oneassociationfailsonsaveiftargethasavalidationonforeign_key;why-el;Oct 19, 2014;14;With reproduction steps activerecord;8
+:multipleoptionturnsemail_fieldnameintoanarray;bughit;Oct 10, 2014;5;actionview pinned;6
+Renderlayoutblocksdon'tworkwithcollections;calebanderson;Oct 9, 2014;8;actionview attached PR;8
+NoMethodError-undefinedmethod`build'onActiveRecord::PredicateBuilder(Class);ghazel;Sep 28, 2014;51;activerecord pinned;7
+Fixthecallbackorderproblemwithassociations;rafaelfranca;Sep 5, 2014;5;activerecord pinned;5
+ActiveRecordrelationwithanaliasedmodeldoesn'twork;haggen;Aug 10, 2014;4;With reproduction steps activerecord;5
+Countercachedoesn'tupdateifparentmodelprimarykeychanges;noinkling;Jul 14, 2014;2;With reproduction steps activerecord;4
+Eagerloadingassociationsthatuselimit,group,andoffsetproducesincorrectresults;jturkel;Jun 22, 2014;16;With reproduction steps activerecord;8
+assert_recognizesandassert_routingdon'ttakerouteconstraintsintoaccount;bmironov;Jun 9, 2014;14;actionpack pinned;6
+Settingconfig.log_formatterresultsinconsolenotmatchinglogfiles.;JacobEvelyn;Jun 2, 2014;9;With reproduction steps railties;5
+JSONrequestswithChunkedencodingarenothandledcorrectly;xaviershay;May 12, 2014;10;With reproduction steps actionpack;9
+Rails4:CacheDigestsnotresolvingarenderlayout:doblock;spodlecki;May 6, 2014;8;actionview pinned;6
+Explicittransactionsnotrollingbackwhenvalidationfailsonnestedattributes;lcreid;Apr 11, 2014;14;With reproduction steps activerecord;9
+Errorisrescuedinroutesifcontrollerdoesn'texist,andmaskedasaRoutingError;dragosmiron;Apr 2, 2014;5;actionpack pinned;5
+Rack::ETagmiddlewaredoesn'tplaynicewithLivestreamingwhencommit!iscalledbeforewrite;rosenfeld;Mar 12, 2014;44;actionpack pinned;10
+render_to_stringchangescontent-typeforsubsequentrender;luckyruby;Feb 24, 2014;35;actionpack pinned;22
+railsonlivestreamseemstoexpireswitherroronserver;u007;Jan 29, 2014;8;With reproduction steps actionpack;7
+`truncate'onhtml-safeinputwillescapeonlywhentruncating;afn;Jan 15, 2014;8;actionview attached PR;4
+update_allbehaviorisdifferentbetweenmysqlandtheotherdatabases;such;Dec 26, 2013;17;With reproduction steps activerecord;13
+Railties::Engine.isolate_namespaceleakshostapplication'surl_helpersintoaction_methodsforthatengine'scontrollers.;ReneB;Nov 18, 2013;7;With reproduction steps engines;7
+disable_clear_and_finalizestopsenginesprependingotherengine'sroutes;radar;Sep 26, 2013;7;engines pinned routing;6
+Regressioninrails4whengeneratingrouteswithoptionalscope;deivid-rodriguez;Sep 9, 2013;21;actionpack regression routing;16
+Livestreamingthreadsnotdying;egru;Jun 18, 2013;51;actionpack pinned;36
+.first_or_initializedoesn'tsetkey/valueonhstorecolumn;mayanring;Mar 12, 2013;17;PostgreSQL With reproduction steps activerecord;10
+assert_recognizesdon'tawareofconstraints;mmontossi;Jan 1, 2013;12;actionpack pinned;12
+image_taginActionView::TestCasenotrespectingassetpipeline;Mandaryn;Jul 31, 2012;20;actionview pinned;15
+Optionalparametersinroutes;woto;Jul 13, 2012;25;actionpack pinned;16
